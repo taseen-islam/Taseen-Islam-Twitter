@@ -27,8 +27,8 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 NOTE: THE FULL GIF IS NOT SHOWING IN THE README FOR SOME REASON EVEN THOUGH THE GIF WORKS!!!!
-HERE IS THE LINK TO THE FULL GIF: https://im4.ezgif.com/tmp/ezgif-4-5c350d7037.gif
+HERE IS THE LINK TO THE FULL GIF: https://i.imgur.com/8s4Ys9O.mp4
 
-<img src='https://im5.ezgif.com/tmp/ezgif-5-9b46734f2b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/8s4Ys9O.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 This gif shown above is only the first 5 seconds of the full gif. I have been trying to make the full gif show for an hour but it isn't working.
