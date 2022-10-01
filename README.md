@@ -26,6 +26,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im3.ezgif.com/tmp/ezgif-3-329963e63e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-Pushing again to fix gif
+<img src='https://im3.ezgif.com/tmp/ezgif-3-9e5ac39d79.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
